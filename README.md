@@ -1,9 +1,9 @@
-### Hi there 👋
+### 👋
 
-🔭 MLE with a background in mathematics (BSc) and AI (MSc)
+🔭 Interested in language processing and neuroscience
 
-😄 Interested in language processing and neuroscience
-
-:mechanical_leg: 
+:briefcase: MLE at UserTesting
+:mechanical_leg: MSc in AI at Edinburgh University
+:infinity: BSc in Maths&Stats at University of Southampton
 
 📫 How to reach me: <myname><mysurname>98@gmail.com (without special characters)
