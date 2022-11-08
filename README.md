@@ -8,4 +8,4 @@
 
 :infinity: BSc in Maths&Stats at University of Southampton
 
-📫 How to reach me: <myname><mysurname>98@gmail.com (without special characters)
+📫 How to reach me: mynamemysurname98@gmail.com (without special characters)
