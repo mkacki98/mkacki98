@@ -4,7 +4,7 @@
 
 :briefcase: MLE at UserTesting
 
-:mechanical_leg: MSc in AI at Edinburgh University
+:mechanical_leg: MSc in AI at the University of Edinburgh
 
 :infinity: BSc in Maths&Stats at University of Southampton
 
