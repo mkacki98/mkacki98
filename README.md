@@ -4,4 +4,6 @@
 
 😄 Interested in language processing and neuroscience
 
+:mechanical_leg: 
+
 📫 How to reach me: <myname><mysurname>98@gmail.com (without special characters)
