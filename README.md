@@ -1,6 +1,6 @@
 ### 👋 :poland:
 
-🔭 Interested in language processing and neuroscience
+🔭 Interested in language processing and neuroscience.
 
 :briefcase: MLE at UserTesting
 
